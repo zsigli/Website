@@ -1,0 +1,17 @@
+button{
+    text-align: center;
+  width: 70px;
+}
+button:hover{
+    background-color: gold;
+}
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
